@@ -18,8 +18,7 @@ with open(csvfile) as csvf:
             candidate_names.append(row[2])
             unique_values.append(row[2])
 
-    print(heading)
-
+# print(heading)
 # unique = set(unique_values)
 # print(unique)
 
